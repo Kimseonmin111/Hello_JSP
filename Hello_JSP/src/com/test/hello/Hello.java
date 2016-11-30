@@ -8,6 +8,9 @@ public class Hello {
 		//hotfix edit by Kim SM
 		System.out.println("hotfix edit/modify");
 		//012456 : end
+		
+		//0215238 : origin/master edit by Kim
+		System.out.println("GitHub edit");
 	}
 
 }
